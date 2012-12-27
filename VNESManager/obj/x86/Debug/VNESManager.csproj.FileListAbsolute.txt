@@ -1,0 +1,12 @@
+D:\Projects\VNES\VNES\VNESManager\bin\Debug\VNESManager.exe.config
+D:\Projects\VNES\VNES\VNESManager\bin\Debug\VNESManager.exe
+D:\Projects\VNES\VNES\VNESManager\bin\Debug\VNESManager.pdb
+D:\Projects\VNES\VNES\VNESManager\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\VNES\VNES\VNESManager\obj\x86\Debug\VNESManager.exe
+D:\Projects\VNES\VNES\VNESManager\obj\x86\Debug\VNESManager.pdb
+D:\Projects\VNES\VNESManager\bin\Debug\VNESManager.exe.config
+D:\Projects\VNES\VNESManager\obj\x86\Debug\VNESManager.exe
+D:\Projects\VNES\VNESManager\obj\x86\Debug\VNESManager.pdb
+D:\Projects\VNES\VNESManager\bin\Debug\VNESManager.exe
+D:\Projects\VNES\VNESManager\bin\Debug\VNESManager.pdb
+D:\Projects\VNES\VNESManager\obj\x86\Debug\ResolveAssemblyReference.cache
